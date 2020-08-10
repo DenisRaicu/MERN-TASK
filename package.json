@@ -6,11 +6,10 @@
   "scripts": {
     "start": "node index.js"
   },
+  
   "author": "Denis Raicu",
   "license": "ISC",
-  "devDependencies": {
-    "nodemon": "^2.0.4"
-  },
+
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
